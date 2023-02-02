@@ -85,5 +85,29 @@ working on the task -fixed a bug
 2023.01.24
 working on the project - export grid view data to txt file
 
-2024.01.25
+2023.01.25
+working on the project - study about mvvm / mvc / mvp , study about entity framework
 
+2023.01.26
+working on the project - study about different patterns and start to convert the project to command pattern
+
+
+2023.01.27
+working on the project - new home page was designed - command design pattern
+
+2023.01.30
+working on the project - salary entering part (auto loading, selections, data passing through classes) - command design pattern
+
+2023.01.31
+working on the project - data validation befor entering was finished 
+	- do not in the temperary table
+	- do not in the data storing tabe
+	- month and year must be in between start-end range
+	- date inputs must only be int
+	- data must be in the master table 
+
+2023.01.01 working on project - add delete and search buttons
+	   new work was assineged - insert data to comapany database after varification process
+
+2023.02.02 insert data to comapany database after varification process is done
+	   woking on the project
