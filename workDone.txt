@@ -111,3 +111,16 @@ working on the project - data validation befor entering was finished
 
 2023.02.02 insert data to comapany database after varification process is done
 	   woking on the project
+
+2023.02.03 data entering - MSSQL
+
+2023.02.06 data entering - MSSQL
+
+2023.02.07 data entering -MSSQL - one error happened by some intern and entered data was crashed.
+			-- learn by experience > sql ACID properties | use transact for Atomisity.
+
+2023.02.08 data entering methods were changed - exel
+
+2023.02.09 data entering - there are so many data so, supervisor decided to use exel functions
+			-- VLOOKUP() was learn and made the data entering process easy, learn about MS ACCESS.
+
