@@ -124,3 +124,19 @@ working on the project - data validation befor entering was finished
 2023.02.09 data entering - there are so many data so, supervisor decided to use exel functions
 			-- VLOOKUP() was learn and made the data entering process easy, learn about MS ACCESS.
 
+2023.02.10 working on the project -> SQL dataTAbles were re created.
+				     study on how data import from ecel to SQL
+				     study on afeature - height and width parameters how can make dynamically change. 
+
+2023.02.13 working on the project -> working on new user adding UC
+
+2023.02.14 working on the project -> working on new user adding UC , automating the data loading process
+				     helped to new intern to make the coding environment of her Laptop
+
+2023.02.14 working on the project -> working on new user adding UC , automating the data loading process
+								     
+2023.02.15 working on the project -> working on new user adding UC , automating the data loading process - DONE,
+								     working on data validation
+
+
+				   
