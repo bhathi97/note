@@ -138,5 +138,13 @@ working on the project - data validation befor entering was finished
 2023.02.15 working on the project -> working on new user adding UC , automating the data loading process - DONE,
 								     working on data validation
 
+2023.02.16 - working on the project -> new user adding, salary entering finished.
+		working on the project - login design was finished.
+
+2023.01.17 - bug occured in the running environment after update and worked on it.
+	     search bars finished
+
+
+	
 
 				   
