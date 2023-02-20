@@ -140,9 +140,17 @@ working on the project - data validation befor entering was finished
 
 2023.02.16 - working on the project -> new user adding, salary entering finished.
 		working on the project - login design was finished.
+		bank and branch adding interface finished
 
 2023.01.17 - bug occured in the running environment after update and worked on it.
 	     search bars finished
+	     export to txt finished
+
+
+2023.01.20 - working on a bug in the project
+		A new Project was assigned - A aviation project
+			project requrement meeting whith cliennts
+			working on project data tables
 
 
 	
