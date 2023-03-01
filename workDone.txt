@@ -153,6 +153,19 @@ working on the project - data validation befor entering was finished
 			working on project data tables
 
 
-	
+2023.01.21 - working on aviation project - database design and startUI design with partner
+
+2023.01.22 - working odn a feature - sort crew function and UI design
+
+2023.01.23 - working on data loading feature - assingn to the main grid  RIC and CREWMAN was completed
+
+2023.01.24 - leave------------->
+2023.01.27 - leave------------->
+
+2023.01.24 - working on the project - data load to main window from database accoring to the entered date and time is finised
+
+2023.01.25
+
+
 
 				   

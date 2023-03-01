@@ -1,0 +1,5 @@
+login page
+home page
+salary entering page
+new user entering
+new bank and branch enter
