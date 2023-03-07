@@ -142,29 +142,35 @@ working on the project - data validation befor entering was finished
 		working on the project - login design was finished.
 		bank and branch adding interface finished
 
-2023.01.17 - bug occured in the running environment after update and worked on it.
+2023.02.17 - bug occured in the running environment after update and worked on it.
 	     search bars finished
 	     export to txt finished
 
 
-2023.01.20 - working on a bug in the project
+2023.02.20 - working on a bug in the project
 		A new Project was assigned - A aviation project
 			project requrement meeting whith cliennts
 			working on project data tables
 
 
-2023.01.21 - working on aviation project - database design and startUI design with partner
+2023.02.21 - working on aviation project - database design and startUI design with partner
 
-2023.01.22 - working odn a feature - sort crew function and UI design
+2023.02.22 - working odn a feature - sort crew function and UI design
 
-2023.01.23 - working on data loading feature - assingn to the main grid  RIC and CREWMAN was completed
+2023.02.23 - working on data loading feature - assingn to the main grid  RIC and CREWMAN was completed
 
-2023.01.24 - leave------------->
-2023.01.27 - leave------------->
+2023.02.24 - leave------------->
+2023.02.27 - leave------------->
 
-2023.01.24 - working on the project - data load to main window from database accoring to the entered date and time is finised
+2023.02.28 - working on the project - data load to main window from database accoring to the entered date and time feature
 
-2023.01.25
+2023.03.01 - working on the project - data load to main window from database accoring to the entered date and time is finised
+
+2023.03.02 - working on the project - printing function
+
+2023.03.03 - working on the project - printing function
+
+2023.03.07- working on the project - printing function - try new window to get the printout
 
 
 
