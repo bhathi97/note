@@ -172,6 +172,15 @@ working on the project - data validation befor entering was finished
 
 2023.03.07- working on the project - printing function - try new window to get the printout
 
+2023.03.08- working on the project - load grid data to excel 
 
+2023.03.09 - working on the project - working data print as pdf function - document reading 
 
+2023.03.10 - working on the project - working data print as pdf function - document reading  
+
+2023.03.13 - working on the project - working data print as pdf function - document reading 
+
+2023.03.14 - working on the project - working data print as pdf function completed for one page.
+
+2023.03.15 - working on the project - working data print as pdf function - working on printing many pages
 				   
