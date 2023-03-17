@@ -183,4 +183,10 @@ working on the project - data validation befor entering was finished
 2023.03.14 - working on the project - working data print as pdf function completed for one page.
 
 2023.03.15 - working on the project - working data print as pdf function - working on printing many pages
+
+2023.03.16 - working on the project - working data print as pdf function - printing many pages feature completed
+
+2023.03.17 - working on the project - start to assemble the project
+
+2023.03.18 - working on the project - assembling the project - interfaces design finished
 				   
