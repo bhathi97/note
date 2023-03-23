@@ -188,5 +188,16 @@ working on the project - data validation befor entering was finished
 
 2023.03.17 - working on the project - start to assemble the project
 
-2023.03.18 - working on the project - assembling the project - interfaces design finished
+2023.03.20 - working on the project - assembling the project - interfaces design finished
+
+2023.03.21 - working on the project - assembling the project
+
+2023.03.22 - working on the project - assembling the project
+
+2023.03.23 - working on the project - assembling the project - almost finish
+
+2023.03.24 - leave ------------->
+
+
+
 				   
